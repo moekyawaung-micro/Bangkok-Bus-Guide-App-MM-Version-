@@ -1,0 +1,13 @@
+ARB files: `lib/l10n/app_en.arb`, `app_my.arb`, `app_th.arb`
+
+## Structure
+
+- Bus model: `lib/models/bus_item.dart`
+- State: `lib/providers/app_provider.dart`
+- Screens: `lib/screens/`
+- Widgets: `lib/widgets/`
+- Localization: `lib/l10n/`
+- Main: `lib/main.dart`
+
+MIT License. PRs welcome!
+```
