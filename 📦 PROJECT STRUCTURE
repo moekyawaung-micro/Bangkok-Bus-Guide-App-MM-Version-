@@ -1,0 +1,32 @@
+
+```
+mm_thai_bus_guide/
+├── android/
+├── ios/
+├── web/
+├── lib/
+│   ├── l10n/
+│   │   ├── app_en.arb
+│   │   ├── app_my.arb
+│   │   └── app_th.arb
+│   ├── models/
+│   │   └── bus_item.dart
+│   ├── providers/
+│   │   └── app_provider.dart
+│   ├── screens/
+│   │   ├── splash_screen.dart
+│   │   ├── main_screen.dart
+│   │   ├── route_screen.dart
+│   │   ├── bus_screen.dart
+│   │   ├── phrases_screen.dart
+│   │   ├── destination_screen.dart
+│   │   └── settings_screen.dart
+│   ├── widgets/
+│   │   ├── bus_item_widget.dart
+│   │   └── custom_drawer.dart
+│   ├── main.dart
+├── pubspec.yaml
+├── l10n.yaml
+├── README.md
+└── LICENSE
+```
