@@ -1,0 +1,19 @@
+{
+  "@@locale": "th",
+  "appTitle": "คู่มือรถบัส MM Thai",
+  "tabRoute": "เส้นทาง",
+  "tabBus": "รถบัส",
+  "tabPhrases": "วลี",
+  "tabDestination": "จุดหมาย",
+  "tabSettings": "ตั้งค่า",
+  "darkMode": "โหมดมืด",
+  "language": "ภาษา",
+  "favorite": "รายการโปรด",
+  "favorites": "รายการโปรดทั้งหมด",
+  "googleMaps": "เปิดใน Google Maps",
+  "speakThai": "พูดเป็นภาษาไทย",
+  "hello": "สวัสดี",
+  "welcome": "ยินดีต้อนรับสู่คู่มือรถบัส MM Thai!",
+  "chooseLanguage": "เลือกภาษา",
+  "noFavorites": "ยังไม่มีรายการโปรด"
+}
