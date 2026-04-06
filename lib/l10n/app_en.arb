@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appTitle": "MM Thai Bus Guide",
+  "tabRoute": "Route",
+  "tabBus": "Bus",
+  "tabPhrases": "Phrases",
+  "tabDestination": "Destination",
+  "tabSettings": "Settings",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "favorite": "Favorite",
+  "favorites": "Favorites",
+  "googleMaps": "Open in Google Maps",
+  "speakThai": "Speak Thai",
+  "hello": "Hello",
+  "welcome": "Welcome to MM Thai Bus Guide!",
+  "chooseLanguage": "Choose Language",
+  "noFavorites": "No favorites yet."
+}
